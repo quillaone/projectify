@@ -8,6 +8,9 @@ luego que se instalen todo los archivos, solo es correr el servicor $python mana
 adjunto url para evidenciar la documentacion de la API en postman
 https://documenter.getpostman.com/view/18241310/UVXomuDk
 
+adjunto link del video explicativo del proyecto (duracion: 5min)
+https://www.loom.com/share/712daf069eab43cb8d3a326ae100750e?sharedAppSource=personal_library
+
  API RESTful usando Django y  base de datos "Mysql"  usuarios operativos de AdsForGood reportar, cada semana, su porcentaje de dedicación a cada uno de los   proyectos de la empresa.
 
 1. usuario operativo, puede iniciar sesión en la aplicación para obtener un JWT (JSON Web Token) y poder disfrutar de las funcionalidades de Projectify.

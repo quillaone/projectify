@@ -1,5 +1,5 @@
 # projectify
-Prueba backend Leanware.io
+FastAPiFull realizada con Django. restframework , mysql.
 
 dentro del repo va un archivo requirements.txt el cual debe ser instalado dentro del ambiente virtual con el comando $pip install -r requirements.txt
 
